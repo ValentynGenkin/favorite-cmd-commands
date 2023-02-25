@@ -10,5 +10,4 @@ _with this command I can create new file_
 
 # cd
 
-~~ with this command I can switch quickly between folders ~~
-
+~~with this command I can switch quickly between folders~~
